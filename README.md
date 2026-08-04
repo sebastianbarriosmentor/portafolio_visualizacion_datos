@@ -25,7 +25,7 @@ Cada carpeta corresponde a una clase, y muestra un paso del mismo proyecto: desd
 
 | # | Clase | Qué hice | Link |
 |---|---|---|---|
-| 1 | Fundamentos y primeros pasos en R | Primeras variables, tipos de datos y exploración de un data frame | [`clase-1-fundamentos/`](https://github.com/tu-usuario/tu-repositorio/tree/main/clase-1-fundamentos) |
+| 1 | Fundamentos y primeros pasos en R | Primeras variables, tipos de datos y exploración de un data frame | [`clase-1-fundamentos/`](https://github.com/sebastianbarriosmentor/portafolio_visualizacion_datos/tree/main/clase-1-fundamentos) |
 | 2 | EDA como lo hace un analista real | Diagnóstico de calidad de datos: valores faltantes, outliers y limpieza | [`clase-2-eda/`](https://github.com/tu-usuario/tu-repositorio/tree/main/clase-2-eda) |
 | 3 | Diseñar para audiencias distintas | Dos versiones del mismo análisis: técnica y ejecutiva | [`clase-3-audiencias/`](https://github.com/tu-usuario/tu-repositorio/tree/main/clase-3-audiencias) |
 | 4 | Reportes automatizados | Reporte reproducible con R Markdown / Quarto | [`clase-4-reportes/`](https://github.com/tu-usuario/tu-repositorio/tree/main/clase-4-reportes) |
